@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "react": "16.0.0-alpha.6",
+
     "react-native": "0.43.4",
     "react-native-google-maps-directions": "^1.1.0",
     "snyk": "^1.42.6"
